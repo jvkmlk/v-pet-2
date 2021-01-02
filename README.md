@@ -1,1 +1,2 @@
-# v-pet-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
